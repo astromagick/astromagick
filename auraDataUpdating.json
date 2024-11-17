@@ -5,7 +5,7 @@
     "updateInfo": {
         "latestVersion":"v1.5.1",
         "versionLink":"https://github.com/astromagick/astromagick/blob/main/auraDataUpdating.json",
-        "updateNotes":"macro steps: 1. open the macro, 2. pause the macro. now the macro will just detect the auras that are rolled on screen."
+        "updateNotes":"nil"
     },
     "biomes": ["Windy", "Rainy", "Snowy", "Hell", "Starfall", "Corruption", "Null", "Glitched"],
     "scheduleItems": ["Strange Controller", "Biome Randomizer", "Lucky Potion", "Speed Potion", "Fortune Potion I", "Fortune Potion II", "Fortune Potion III", "Haste Potion I", "Haste Potion II", "Haste Potion III", "Heavenly Potion I", "Heavenly Potion II"],
