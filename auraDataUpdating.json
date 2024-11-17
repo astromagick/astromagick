@@ -2,7 +2,7 @@
     "_comment":"Hey, this is a further updated version of the auradata json (staticData.json) from the dolphSol Macro made by BuilderDolphin. I made this for personal use, and did not write a majority of the code therefore I take little to no credit for the works of this file and credit goes to BuilderDolphin themselves.",
     "announcement":"announcement",
     "updateInfo": {
-        "latestVersion":"v1.5.1",
+        "latestVersion":"v1.5.2",
         "versionLink":"https://github.com/astromagick/astromagick/blob/main/auraDataUpdating.json",
         "updateNotes":"macro steps: 1. open the macro, 2. pause the macro. now the macro will just detect the auras that are rolled on screen."
     },
@@ -184,12 +184,19 @@
             "name": "Arcane",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/8/86/Arcane_Gif_25Fps.gif",
             "rarity": 1000000,
-            "cornerColor": 3289650
+            "cornerColor": 3355443
         },
-        "8324736": {
+        "13860499": {
             "name": "Magnetic : Reverse Polarity",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/c/c2/MagneticReversePolarityCollection.gif",
-            "rarity": 1024000
+            "rarity": 1024000,
+			"cornerColor": 3355443
+        },
+		"3158064": {
+            "name": "Undefined",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+            "rarity": 1111000,
+			"cornerColor": 3355443
         },
         "5399551": {
             "name": "Gravitational",
@@ -352,6 +359,18 @@
             "image": "https://static.wikia.nocookie.net/sol-rng/images/5/56/Watermelon_Collection.png",
             "rarity": 30000000,
 			"cornerColor": 854798
-        }
+        },
+		"6130687": {
+            "name": "﴾AEGIS﴿",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/a/ab/AegisCollection.gif",
+            "rarity": 825000000,
+			"cornerColor": 69415
+        },
+		"12573948": {
+            "name": "[ Luminosity ]",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/e/ea/Luminosity_Collection.gif",
+            "rarity": 1200000000,
+			"cornerColor": 2763306
+        },
     }
 }]
