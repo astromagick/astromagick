@@ -1,8 +1,9 @@
 [{
-    "_comment":"Hey, this is a further updated version of the auradata json (staticData.json) from the dolphSol Macro made by BuilderDolphin. I made this for personal use, and did not write a majority of the code therefore I take little to no credit for the works of this file and credit goes to BuilderDolphin themselves.",
+    
     "announcement":"announcement",
+	"_copyright":"Hey, this is a further updated version of the auradata json (staticData.json) from the dolphSol Macro made by BuilderDolphin. I made this for personal use, and did not write a majority of the code therefore I take little to no credit for the works of this file and credit goes to BuilderDolphin themselves.",
     "updateInfo": {
-        "latestVersion":"v1.5.2",
+        "latestVersion":"v1.5.1",
         "versionLink":"https://github.com/astromagick/astromagick/blob/main/auraDataUpdating.json",
         "updateNotes":"macro steps: 1. open the macro, 2. pause the macro. now the macro will just detect the auras that are rolled on screen."
     },
