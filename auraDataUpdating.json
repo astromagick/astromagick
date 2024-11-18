@@ -360,19 +360,25 @@
             "biome": {"name": "Snowy", "factor":3},
             "cornerColor": 2123672
         },
-		"1710407": {
+	"1710407": {
             "name": "INNOVATOR",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/5/56/Watermelon_Collection.png",
             "rarity": 30000000,
 			"cornerColor": 854798
         },
-		"6130687": {
+	"4390787": {
+            "name": "Ruins",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+            "rarity": 500000000,
+			"cornerColor": 5734263
+        },
+	"6130687": {
             "name": "﴾AEGIS﴿",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/a/ab/AegisCollection.gif",
             "rarity": 825000000,
 			"cornerColor": 69415
         },
-		"12573948": {
+	"12573948": {
             "name": "[ Luminosity ]",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/e/ea/Luminosity_Collection.gif",
             "rarity": 1200000000,
