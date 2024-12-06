@@ -314,8 +314,7 @@
 		"16777215": {
             "name": "CHROMATIC : GENESIS",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
-            "rarity": 99999999,
-            "cornerColor": 658712
+            "rarity": 99999999
         },
 		"13601602": {
             "name": "Aviator",
@@ -379,7 +378,7 @@
 			"cornerColor": 5734263
         },
 		"6130687": {
-            "name": "?AEGIS?",
+            "name": "{AEGIS}",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/a/ab/AegisCollection.gif",
             "rarity": 825000000,
 			"cornerColor": 69415
