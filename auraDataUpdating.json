@@ -311,11 +311,11 @@
             "rarity": 20000000,
             "cornerColor": 9975095
         },
-	"16722992": {
+		"16777215": {
             "name": "CHROMATIC : GENESIS",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
             "rarity": 99999999,
-            "cornerColor": 9975095
+            "cornerColor": 658712
         },
 		"13601602": {
             "name": "Aviator",
@@ -366,29 +366,40 @@
             "biome": {"name": "Snowy", "factor":3},
             "cornerColor": 2123672
         },
-	"1710407": {
+		"1710407": {
             "name": "INNOVATOR",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/5/56/Watermelon_Collection.png",
             "rarity": 30000000,
 			"cornerColor": 854798
         },
-	"4390787": {
+		"4390787": {
             "name": "Ruins",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
             "rarity": 500000000,
 			"cornerColor": 5734263
         },
-	"6130687": {
-            "name": "﴾AEGIS﴿",
+		"6130687": {
+            "name": "?AEGIS?",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/a/ab/AegisCollection.gif",
             "rarity": 825000000,
 			"cornerColor": 69415
         },
-	"12573948": {
+		"12573948": {
             "name": "[ Luminosity ]",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/e/ea/Luminosity_Collection.gif",
             "rarity": 1200000000,
 			"cornerColor": 2763306
+        },
+		"16760453": {
+            "name": "ATLAS",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+            "rarity": 360000000,
+			"cornerColor": 3020548
+        },
+		"16764779": {
+            "name": "PUMP",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+            "rarity": 200000
         }
     }
 }]
