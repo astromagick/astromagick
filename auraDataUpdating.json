@@ -311,6 +311,12 @@
             "rarity": 20000000,
             "cornerColor": 9975095
         },
+	"16722992": {
+            "name": "CHROMATIC : GENESIS",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+            "rarity": 99999999,
+            "cornerColor": 9975095
+        },
 		"13601602": {
             "name": "Aviator",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/8/80/Ethereall.png",
