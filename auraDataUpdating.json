@@ -405,6 +405,54 @@
             "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
             "rarity": 72000000,
 			"cornerColor": 1192475
+        },
+	    "1904455": {
+            "name": "Lunar : Nightfall",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+            "rarity": 3000000,
+			"cornerColor": 3355443
+        },
+	    "1116977": {
+            "name": "Moonflower",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+            "rarity": 10000000,
+			"cornerColor": 0
+        },
+	    "5139196": {
+            "name": "Cryptfire",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+            "rarity": 21000000,
+			"cornerColor": 1050668
+        },
+	    "4f1819": {
+            "name": "Vital",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+            "rarity": 6000000,
+			"cornerColor": 3355443
+        },
+	    "13394272": {
+            "name": "SOUL HUNTER",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+            "rarity": 40000000,
+			"cornerColor": 3347990
+        },
+	    "10187774": {
+            "name": "》NIGHTMARE SKY《",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+            "rarity": 190000000,
+			"cornerColor": 1906470
+        },
+	    "16712050": {
+            "name": "HARVESTER",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+            "rarity": 666000000,
+			"cornerColor": 2752549
+        },
+	    "4757438": {
+            "name": "APOSTOLOS : VEIL",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+            "rarity": 800000000,
+			"cornerColor": 0
         }
     }
 }]
