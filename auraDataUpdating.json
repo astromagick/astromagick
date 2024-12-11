@@ -399,6 +399,12 @@
             "name": "PUMP",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
             "rarity": 200000
+        },
+	    "6471811": {
+            "name": "DULLAHAN",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+            "rarity": 72000000,
+			"cornerColor": 1192475
         }
     }
 }]
