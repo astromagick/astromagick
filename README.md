@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @astromagick
 - 👀 I’m interested in space and astronomy
-- 🌱 I’m currently learning python, java, javascript, ahk
+- 🌱 I’m currently learning python, java, javascript, mips, c++
+- ✅ I use luau, lua, python, html, css, javascript, ahk
 - 📫 How to reach me ... my discord is astromagicx
 
 <!---
