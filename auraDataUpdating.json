@@ -187,25 +187,14 @@
             "14803711": {
                 "name": "Celestial",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/6/60/CelestialAura.gif",
-                "rarity": 350000,
-                "mutations": [
-                    {
-                        "name": "CELESTIAL : DIVINE",
-                        "image": "https://static.wikia.nocookie.net/sol-rng/images/c/c4/CelestialDivineCollection.gif",
-                        "rarity": 7000000,
-                        "cornerColor": 2297906,
-                        "requirements": {
-                            "is1m": 1
-                        }
-                    }
-                ]
+                "rarity": 350000
             },
-            "789028": {
+            "854823": {
                 "name": "Vortex",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
                 "rarity": 399999
             },
-            "854823": {
+            "7486081": {
                 "name": "Terror",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
                 "rarity": 400000
@@ -287,8 +276,7 @@
             "16777215": {
                 "name": "Pulsar, Lantern, Vega, FLOWED, Nihility, Melodic, CHROMATIC : GENESIS, Twilight : Withering Grace or Virtual Memory",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
-                "rarity": 0,
-                "cornerColor": 3355443
+                "rarity": 0
             },
             "5399551": {
                 "name": "Gravitational",
@@ -393,6 +381,12 @@
                     "name": "Hell",
                     "factor": 6
                 }
+            },
+            "10191294": {
+                "name": "Celestial : Divine",
+                "image": "https://static.wikia.nocookie.net/sol-rng/images/c/c4/CelestialDivineCollection.gif",
+                "rarity": 7000000,
+                "cornerColor": 3355443
             },
             "14978925": {
                 "name": "Faith",
