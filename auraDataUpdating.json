@@ -149,8 +149,13 @@
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/2/21/CometAura.gif",
                 "rarity": 120000
             },
-            "5609755": {
+            "205056": {
                 "name": "Undead : Devil",
+                "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+                "rarity": 120000
+            },
+            "15445835": {
+                "name": "Divinus : Angel",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
                 "rarity": 120000
             },
