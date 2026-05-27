@@ -149,11 +149,6 @@
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/2/21/CometAura.gif",
                 "rarity": 120000
             },
-            "205056": {
-                "name": "Undead : Devil",
-                "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
-                "rarity": 120000
-            },
             "15445835": {
                 "name": "Divinus : Angel",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
@@ -213,6 +208,11 @@
                 "name": "Warlock",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
                 "rarity": 666000
+            },
+            "205056": {
+                "name": "Undead : Devil",
+                "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+                "rarity": 666666
             },
             "2627218": {
                 "name": "Kyawthuite",
@@ -296,7 +296,7 @@
                 "rarity": 3000000,
                 "cornerColor": 3355443
             },
-            "4991286": {
+            "4794166": {
                 "name": "Orion",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
                 "rarity": 3000000,
@@ -346,7 +346,7 @@
                 "name": "Zeus",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/8/8c/Zeus.gif",
                 "rarity": 4500000,
-                "cornerColor": 3354906
+                "cornerColor": 3355443
             },
             "15912471": {
                 "name": "Solar : Solstice",
@@ -367,7 +367,7 @@
                 },
                 "rarity": 5000000
             },
-            "5390591": {
+            "5325055": {
                 "name": "Twilight",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/4/4d/RobloxPlayerBeta_1Wn7Ej3k18.gif",
                 "rarity": 6000000,
@@ -398,6 +398,18 @@
                 "name": "HYPER-VOLT",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/d/d4/HpVl.gif",
                 "rarity": 7500000,
+                "cornerColor": 3355443
+            },
+            "2841087": {
+                "name": "HARNESSED",
+                "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+                "rarity": 8000000,
+                "cornerColor": 3355443
+            },
+            "4724516": {
+                "name": "Stargazer",
+                "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+                "rarity": 9200000,
                 "cornerColor": 3355443
             },
             "1971535": {
@@ -692,7 +704,7 @@
                 "cornerColor": 728075
             },
             "16777215": {
-                "name": "either Pulsar, Lantern, Vega, FLOWED, Nihility, Melodic, CHROMATIC : GENESIS, Twilight : Withering Grace or Virtual Memory",
+                "name": "either Pulsar, Lantern, Vega, FLOWED, Refraction, Nihility, Melodic, CHROMATIC : GENESIS, Twilight : Withering Grace or Virtual Memory",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
                 "rarity": 232232232
             }
