@@ -244,7 +244,7 @@
                 "cornerColor": 3355443
             },
             "5452214": {
-                "name": "symbiosis",
+                "name": "SYMBIOSIS",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
                 "rarity": 1331201,
                 "cornerColor": 3355443
@@ -320,6 +320,12 @@
                 "rarity": 3325000,
                 "cornerColor": 3355443
             },
+            "1385038": {
+                "name": "Evanescent",
+                "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+                "rarity": 3360000,
+                "cornerColor": 3355443
+            },
             "4132730": {
                 "name": "Crystallized : Bejeweled",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
@@ -329,6 +335,12 @@
             "10704677": {
                 "name": "Aquatic : Flame",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/7/7f/Aqua_flame_new_gif.gif",
+                "rarity": 4000000,
+                "cornerColor": 3355443
+            },
+            "2563417": {
+                "name": "Metabytes",
+                "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
                 "rarity": 4000000,
                 "cornerColor": 3355443
             },
@@ -342,7 +354,13 @@
                 },
                 "cornerColor": 3158064
             },
-            "16775891": {
+            "5876902": {
+                "name": "Wraith",
+                "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+                "rarity": 4100000,
+                "cornerColor": 3355443
+            },
+            "16699521": {
                 "name": "Zeus",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/8/8c/Zeus.gif",
                 "rarity": 4500000,
@@ -373,6 +391,12 @@
                 "rarity": 6000000,
                 "cornerColor": 3355443
             },
+            "6054143": {
+                "name": "Origin",
+                "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+                "rarity": 6500000,
+                "cornerColor": 3355443
+            },
             "7808256": {
                 "name": "Hades",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/9/9d/HadesAura.gif",
@@ -388,6 +412,12 @@
                 "rarity": 7000000,
                 "cornerColor": 3355443
             },
+            "1509126": {
+                "name": "Anubis",
+                "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+                "rarity": 7200000,
+                "cornerColor": 3355443
+            },
             "14978925": {
                 "name": "Faith",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
@@ -400,10 +430,22 @@
                 "rarity": 7500000,
                 "cornerColor": 3355443
             },
+            "854537": {
+                "name": "Velocity",
+                "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+                "rarity": 7630000,
+                "cornerColor": 3355443
+            },
             "2841087": {
                 "name": "HARNESSED",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
                 "rarity": 8000000,
+                "cornerColor": 3355443
+            },
+            "14716751": {
+                "name": "Helios",
+                "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+                "rarity": 9000000,
                 "cornerColor": 3355443
             },
             "4724516": {
@@ -491,6 +533,12 @@
                 "rarity": 24000000,
                 "cornerColor": 591364
             },
+            "2233952": {
+                "name": "Apotheosis",
+                "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+                "rarity": 24691356,
+                "cornerColor": 590886
+            },
             "328463": {
                 "name": "Arcane : Dark",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/1/10/Arcane-dark-collection-era9.gif",
@@ -539,6 +587,12 @@
                 "rarity": 60000000,
                 "cornerColor": 1906995
             },
+            "10906437": {
+                "name": "Dominion",
+                "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+                "rarity": 70000000,
+                "cornerColor": 2498319
+            },
             "4424270": {
                 "name": "Sailor : Flying Dutchman",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/e/e4/Sailor_Flying_Dutchman_Collection_E8.gif",
@@ -547,6 +601,12 @@
                     "name": "Rainy",
                     "factor": 4
                 }
+            },
+            "16758622": {
+                "name": "Carriage",
+                "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+                "rarity": 80000000,
+                "cornerColor": 2035725
             },
             "7836052": {
                 "name": "Virtual : FULL CONTROL",
@@ -566,6 +626,24 @@
                 "rarity": 92118000,
                 "cornerColor": 3344136
             },
+            "10078463": {
+                "name": "STARSCOURGE : RADIANT",
+                "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+                "rarity": 100000000,
+                "cornerColor": 1580577
+            },
+            "4881115": {
+                "name": "Overture",
+                "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+                "rarity": 150000000,
+                "cornerColor": 857656
+            },
+            "16776438": {
+                "name": "Prophecy",
+                "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+                "rarity": 275649430,
+                "cornerColor": 393216
+            },
             "8328728": {
                 "name": "BLOODLUST",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/f/f9/BloodlustInCollection.gif",
@@ -575,6 +653,12 @@
                     "factor": 6
                 },
                 "cornerColor": 327680
+            },
+            "15531763": {
+                "name": "CYTOKINESIS",
+                "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
+                "rarity": 330400472,
+                "cornerColor": 0
             },
             "16760453": {
                 "name": "ATLAS",
@@ -644,7 +728,7 @@
                 "rarity": 21000000,
                 "cornerColor": 1050668
             },
-            "4f1819": {
+            "5183513": {
                 "name": "Vital",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
                 "rarity": 6000000,
@@ -692,7 +776,7 @@
                 "cornerColor": 728075
             },
             "16777215": {
-                "name": "either Pulsar, Lantern, Vega, FLOWED, Refraction, Nihility, Melodic, CHROMATIC : GENESIS, Twilight : Withering Grace or Virtual Memory",
+                "name": "either Pulsar, Lantern, Vega, FLOWED, Refraction, Nihility, Melodic, Oculus, CHROMATIC : GENESIS, Twilight : Withering Grace or Virtual Memory",
                 "image": "https://static.wikia.nocookie.net/sol-rng/images/0",
                 "rarity": 232232232
             }
